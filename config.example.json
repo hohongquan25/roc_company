@@ -1,0 +1,19 @@
+{
+  "_ghi_chu": "Sao chép thành data/config.json nếu muốn đổi mặc định. Không chứa bí mật nào. Xóa các dòng không cần.",
+  "port": 8765,
+  "max_concurrent_cli": 3,
+  "max_concurrent_per_cli": {"claude": 2, "antigravity": 2},
+  "cli_timeout_sec": 900,
+  "max_attempts": 3,
+  "max_revisions": 2,
+  "quota_wait_sec": 1800,
+  "ffmpeg": "ffmpeg",
+  "ffprobe": "ffprobe",
+  "video_width": 1920,
+  "video_height": 1080,
+  "video_fps": 30,
+  "target_lufs": -14.0,
+  "reference_max_seconds": 900,
+  "cli_paths": {},
+  "sheets_webhook_url": ""
+}

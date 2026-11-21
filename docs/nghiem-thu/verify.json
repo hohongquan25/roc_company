@@ -1,0 +1,41 @@
+{
+ "ok": true,
+ "checks": [
+  {
+   "name": "video_stream",
+   "ok": true,
+   "detail": "h264 1080x1920"
+  },
+  {
+   "name": "audio_stream",
+   "ok": true,
+   "detail": "aac"
+  },
+  {
+   "name": "duration",
+   "ok": true,
+   "detail": "53.00s / dự kiến 53.00s"
+  },
+  {
+   "name": "decode",
+   "ok": true,
+   "detail": "giải mã toàn bộ không lỗi"
+  },
+  {
+   "name": "audio_level",
+   "ok": true,
+   "detail": "mean_volume=-42.2 dB"
+  },
+  {
+   "name": "subtitle_layout",
+   "ok": true,
+   "detail": "26 dòng phụ đề, 0 vượt vùng an toàn"
+  },
+  {
+   "name": "subtitle_visible",
+   "ok": true,
+   "detail": "7/7 khung hình mẫu thấy phụ đề"
+  }
+ ],
+ "duration": 53.0
+}

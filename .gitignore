@@ -1,0 +1,8 @@
+# dữ liệu, bí mật, nhật ký của Mini — không đưa vào Git
+data/
+.venv/
+frontend/node_modules/
+frontend/dist/
+__pycache__/
+*.pyc
+.pytest_cache/
